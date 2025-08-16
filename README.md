@@ -79,11 +79,12 @@ This repository is a personal journey to sharpen programming logic by solving Co
 
 As I complete each day’s kata, I’ll add a new row here with details and a link to the challenge.
 
-| Day | Kata Link                                                               | Kyu | Description                      |
-| --- | ----------------------------------------------------------------------- | --- | -------------------------------- |
-| 1   | _(to be added)_                                                         | _–_ | _(challenge name and summary)_   |
-| 2   | _(to be added)_                                                         | _–_ | _(challenge name and summary)_   |
-| 3   | https://www.codewars.com/kata/5365bb5d5d0266cd010009be/train/javascript | 6   | Sum of positives: filter and sum |
+| Day | Kata Link                                                               | Kyu | Description                                                                                        |
+| --- | ----------------------------------------------------------------------- | --- | -------------------------------------------------------------------------------------------------- |
+| 1   | Initial Test                                                            | _–_ | Initialize Test                                                                                    |
+| 2   | longestConsecutive\_                                                    | _–_ | _(challenge name and summary)_                                                                     |
+| 3   | https://www.codewars.com/kata/5365bb5d5d0266cd010009be/train/javascript | 6   | Making Change                                                                                      |
+| 4   | https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/train/javascript | 5   | Write a program that will calculate the number of trailing zeros in a factorial of a given number. |
 
 _(New days will be appended below as they are completed.)_
 

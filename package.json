@@ -5,7 +5,8 @@
   "scripts": {
     "build": "tsc",
     "dev": "node scripts/dev.js",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
