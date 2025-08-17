@@ -85,6 +85,7 @@ As I complete each day’s kata, I’ll add a new row here with details and a li
 | 2   | longestConsecutive\_                                                    | _–_ | _(challenge name and summary)_                                                                     |
 | 3   | https://www.codewars.com/kata/5365bb5d5d0266cd010009be/train/javascript | 6   | Making Change                                                                                      |
 | 4   | https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/train/javascript | 5   | Write a program that will calculate the number of trailing zeros in a factorial of a given number. |
+| 5   | https://www.codewars.com/kata/596d34df24a04ee1e3000a25/train/javascript | 4   | Count ones in a segment.                                                                           |
 
 _(New days will be appended below as they are completed.)_
 
