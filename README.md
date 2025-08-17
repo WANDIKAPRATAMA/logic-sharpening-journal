@@ -86,6 +86,9 @@ As I complete each day’s kata, I’ll add a new row here with details and a li
 | 3   | https://www.codewars.com/kata/5365bb5d5d0266cd010009be/train/javascript | 6   | Making Change                                                                                      |
 | 4   | https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/train/javascript | 5   | Write a program that will calculate the number of trailing zeros in a factorial of a given number. |
 | 5   | https://www.codewars.com/kata/596d34df24a04ee1e3000a25/train/javascript | 4   | Count ones in a segment.                                                                           |
+| 6   | https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc/javascript       | 6   | Message Validator                                                                                  |
+| 7   | https://www.codewars.com/kata/545cedaa9943f7fe7b000048/javascript       | 6   | Message Validator                                                                                  |
+| 8   | https://www.codewars.com/kata/5a077e8106d5b654b800004f/javascript       | 6   | Each n-th element of list                                                                          |
 
 _(New days will be appended below as they are completed.)_
 
