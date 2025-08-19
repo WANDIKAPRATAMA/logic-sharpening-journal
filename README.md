@@ -89,6 +89,11 @@ As I complete each day’s kata, I’ll add a new row here with details and a li
 | 6   | https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc/javascript       | 6   | Message Validator                                                                                  |
 | 7   | https://www.codewars.com/kata/545cedaa9943f7fe7b000048/javascript       | 6   | Message Validator                                                                                  |
 | 8   | https://www.codewars.com/kata/5a077e8106d5b654b800004f/javascript       | 6   | Each n-th element of list                                                                          |
+| 9   | https://www.codewars.com/kata/5a077e8106d5b654b800004f/javascript       | 6   | Each n-th element of list                                                                          |
+| 10  | https://www.codewars.com/kata/5a077e8106d5b654b800004f/javascript       | 6   | Each n-th element of list                                                                          |
+| 11  | https://www.codewars.com/kata/5a077e8106d5b654b800004f/javascript       | 6   | Each n-th element of list                                                                          |
+| 12  | https://www.codewars.com/kata/55cc20eb943f1d8b11000045/javascript       | 6   | EX marks the spot!                                                                                 |
+|  |
 
 _(New days will be appended below as they are completed.)_
 
