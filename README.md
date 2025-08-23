@@ -93,7 +93,9 @@ As I complete each day’s kata, I’ll add a new row here with details and a li
 | 10  | https://www.codewars.com/kata/5a077e8106d5b654b800004f/javascript       | 6   | Each n-th element of list                                                                          |
 | 11  | https://www.codewars.com/kata/5a077e8106d5b654b800004f/javascript       | 6   | Each n-th element of list                                                                          |
 | 12  | https://www.codewars.com/kata/55cc20eb943f1d8b11000045/javascript       | 6   | EX marks the spot!                                                                                 |
-|  |
+|     |
+| 16  | https://www.codewars.com/kata/5832514f64a4cecd1c00001/javascript        | 6   | Chess piece values!                                                                                |
+|     |
 
 _(New days will be appended below as they are completed.)_
 
