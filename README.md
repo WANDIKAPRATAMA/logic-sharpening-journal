@@ -96,6 +96,8 @@ As I complete each day’s kata, I’ll add a new row here with details and a li
 |     |
 | 16  | https://www.codewars.com/kata/5832514f64a4cecd1c00001/javascript        | 6   | Chess piece values!                                                                                |
 |     |
+| 18  | https://www.codewars.com/kata/523f5d21c841566fde000009/javascript       | 6   | array Diff                                                                                         |
+|     |
 
 _(New days will be appended below as they are completed.)_
 
