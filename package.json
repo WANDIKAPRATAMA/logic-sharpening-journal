@@ -6,7 +6,8 @@
     "build": "tsc",
     "dev": "node scripts/dev.js",
     "test": "jest --watchAll",
-    "prepare": "husky"
+    "prepare": "husky",
+    "test:day": "node scripts/test-day.js"
   },
   "keywords": [],
   "author": "",
