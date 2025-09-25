@@ -107,6 +107,8 @@ As I complete each day’s kata, I’ll add a new row here with details and a li
 |     |
 | 20  | https://www.codewars.com/kata/58e24788e24ddee28e000053/javascript                                     | 5   | Simple assembler interpreter                                                                       |
 |     |
+| 21  | https://www.codewars.com/kata/54a2e93b22d236498400134b/javascript                                     | 6   | Multi-tap Keypad Text Entry on an Old Mobile Phone                                                 |
+|     |
 
 _(New days will be appended below as they are completed.)_
 

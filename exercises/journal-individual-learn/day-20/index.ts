@@ -1,6 +1,6 @@
 function simple_assembler(program: string[]): Record<string, number> {
   const registers: Record<string, number> = {};
-  let i = 0;
+  let i = 0; //As Pointer to Rollback if seed jnz
 
   function getValue(x: string): number {
     const parsed = parseInt(x);
